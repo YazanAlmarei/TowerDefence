@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerDefence", "TowerDefence\TowerDefence.csproj", "{2516BA67-12AB-43EF-9817-60311B1C05D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathGenerator", "PathGenerator\PathGenerator.csproj", "{D03B9FED-46AF-4CB5-8931-0BF56CD24B0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2516BA67-12AB-43EF-9817-60311B1C05D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2516BA67-12AB-43EF-9817-60311B1C05D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2516BA67-12AB-43EF-9817-60311B1C05D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2516BA67-12AB-43EF-9817-60311B1C05D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D03B9FED-46AF-4CB5-8931-0BF56CD24B0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D03B9FED-46AF-4CB5-8931-0BF56CD24B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D03B9FED-46AF-4CB5-8931-0BF56CD24B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D03B9FED-46AF-4CB5-8931-0BF56CD24B0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D14C16C7-A927-44EA-B67B-F53FE3F0491E}
+	EndGlobalSection
+EndGlobal
